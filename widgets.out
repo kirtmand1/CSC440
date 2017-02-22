@@ -1,0 +1,41 @@
+   STATE    PLANT     DEPT    EMPID    COUNT NAME                
+
+      12       34       56      789        4 George Carter       
+      12       34       56      799        6 Mary Clinton        
+
+                                          10 TOTAL FOR DEPT 56   
+
+      12       34       57      639        8 Alfred Lincoln      
+
+                                           8 TOTAL FOR DEPT 57   
+                                          18 TOTAL FOR PLANT 34  
+
+      12       40       57      710        8 Kim Kennedy         
+      12       40       57      990        6 Jina Johnson        
+
+                                          14 TOTAL FOR DEPT 57   
+
+      12       40       75      426       10 Ruby Roosevelt      
+      12       40       75      551        7 John Washington     
+
+                                          17 TOTAL FOR DEPT 75   
+                                          31 TOTAL FOR PLANT 40  
+                                          49 TOTAL FOR STATE 12  
+
+      33       22       11      297       10 Hilda Hoover        
+      33       22       11      428       11 Ted Truman          
+      33       22       11      808        3 Nora Nixon          
+
+                                          24 TOTAL FOR DEPT 11   
+
+      33       22       14      629        9 Mabel Bush          
+
+                                           9 TOTAL FOR DEPT 14   
+                                          33 TOTAL FOR PLANT 22  
+
+      33       27       19      321        5 Chris Adams         
+
+                                           5 TOTAL FOR DEPT 19   
+                                           5 TOTAL FOR PLANT 27  
+                                          38 TOTAL FOR STATE 33  
+                                          87 GRAND TOTAL         
